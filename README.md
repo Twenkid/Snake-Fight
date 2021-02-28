@@ -1,4 +1,4 @@
-# Snake-Fight
+# Snake Fight - Снейкфайт
 
 <img src="https://github.com/Twenkid/Snake-Fight/blob/main/snake3D.png">
 
